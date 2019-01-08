@@ -1,1 +1,1 @@
-# AdamsWebsite
+# smart
